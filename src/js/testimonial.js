@@ -10,7 +10,7 @@ export function testimonialSlider() {
         this.testimonials = await res.json();
         this.startSlider();
       } catch (error) {
-        console.error("Erreur de chargement des témoignages :", error);
+        console.error('Erreur de chargement des témoignages :', error);
       }
     },
 
@@ -28,6 +28,6 @@ export function testimonialSlider() {
 
     init() {
       this.fetchTestimonials();
-    }
+    },
   };
 }

@@ -7,10 +7,10 @@ export function galleryHandler() {
       this.lightbox = new PhotoSwipeLightbox({
         gallery: '#gallery',
         children: 'a',
-        pswpModule: () => import('photoswipe')
+        pswpModule: () => import('photoswipe'),
       });
 
       this.lightbox.init();
-    }
-  }
+    },
+  };
 }

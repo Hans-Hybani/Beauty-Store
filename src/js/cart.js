@@ -16,8 +16,8 @@ export function cartHandler() {
       this.cartCount += this.quantity;
       localStorage.setItem('cartCount', this.cartCount);
       window.dispatchEvent(new CustomEvent('cart-updated', { detail: this.cartCount }));
-    }
-  }
+    },
+  };
 }
 
 export function cartBadge() {
@@ -28,6 +28,6 @@ export function cartBadge() {
       window.addEventListener('cart-updated', (e) => {
         this.cartCount = e.detail;
       });
-    }
-  }
+    },
+  };
 }
