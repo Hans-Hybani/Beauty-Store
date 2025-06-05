@@ -1,0 +1,23 @@
+// Default variable overrides
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+$primary: #F76879;
+$secondary: #DBA5AB;
+$tertiary: #FCCDD2;
+$text-accordeon:#6F585B;
+$title-newsle:#6F585B;
+$gray: #667085;
+$gray-second: #344054;
+$gray-third: #98A2B3;
+$gray-stars-inactive:#F2F4F7;
+$gray-dark: #111111BF;
+$background: #FFFFFF;
+$basic: #000000;
+$picto:#111827;
+$news:#6F585B;
+
+:root{
+    --bebas : 'Bebas Neue', sans-serif;
+    --montserrat : 'Montserrat', sans-serif;    
+}

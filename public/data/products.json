@@ -1,0 +1,48 @@
+[
+    {
+      "id": 1,
+      "title": "Product 1",
+      "price": 75.00,
+      "description": "SShort description here it’s cool !",
+      "rating": 6,
+      "reviews": 121,
+      "image": "/resources/chaussure.png"
+    },
+    {
+      "id": 2,
+      "title": "SProduct PMR2",
+      "price": 99.00,
+      "description": "Short description 2 here it’s cool !",
+      "rating": 4,
+      "reviews": 241,
+      "image": "/resources/chaussure.png"
+    },
+    {
+      "id": 3,
+      "title": "Product XZE",
+      "price": 95.00,
+      "description": "Short description 3 here it’s cool !",
+      "rating": 4,
+      "reviews": 11,
+      "image": "/resources/chaussure.png"
+    },
+    {
+      "id": 4,
+      "title": "15,00 €",
+      "price": 15.00,
+      "description": "Hey this is cool !",
+      "rating": 3,
+      "reviews": 45,
+      "image": "/resources/chaussure.png"
+    },
+    {
+      "id": 5,
+      "title": "Sneaker Five",
+      "price": 84.50,
+      "description": "Look moderne et amorti renforcé",
+      "rating": 5,
+      "reviews": 32,
+      "image": "/resources/chaussure.png"
+    }
+  ]
+  

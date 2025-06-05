@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Description",
+    "content": "<p>Nunc nibh odio, sodales et lobortis id, placerat et eros. Duis eget consectetur lorem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Praesent imperdiet aliquet luctus. Fusce sit amet ligula tincidunt, elementum nunc at, aliquet orci. Proin sit amet sem condimentum, scelerisque arcu ac, convallis ipsum. Nunc dignissim semper consectetur. Vivamus dictum est eu enim laoreet ultrices. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li><li>Sed tincidunt erat vitae ultricies scelerisque.</li><li>Sed a ligula imperdiet nibh tristique vestibulum nec ut ante.</li><li>Vestibulum pretium neque quis neque auctor convallis.</li></ul>"
+  },
+  {
+    "id": 2,
+    "title": "Conseils d'utilisation",
+    "content": "<p>Appliquer sur cheveux mouillés, masser et rincer soigneusement. Utiliser 2 à 3 fois par semaine pour un résultat optimal.</p>"
+  },
+  {
+    "id": 3,
+    "title": "Ingrédients",
+    "content": "<p>Aqua, Cetearyl Alcohol, Glycerin, Coco-Glucoside, Parfum, Panthenol, Sodium Benzoate, Potassium Sorbate, Citric Acid.</p>"
+  }
+]
